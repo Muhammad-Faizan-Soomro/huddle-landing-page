@@ -68,7 +68,6 @@ button:hover {
 
 .socials {
     grid-column: 2;
-    display: flex;
     justify-self: end;
 }
 
